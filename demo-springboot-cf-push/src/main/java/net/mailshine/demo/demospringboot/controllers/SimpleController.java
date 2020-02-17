@@ -1,6 +1,6 @@
-package demospringboot.controllers;
+package net.mailshine.demo.demospringboot.controllers;
 
-import demospringboot.models.Employee;
+import net.mailshine.demo.demospringboot.models.Employee;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

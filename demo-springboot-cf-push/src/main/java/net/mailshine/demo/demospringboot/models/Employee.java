@@ -1,4 +1,4 @@
-package demospringboot.models;
+package net.mailshine.demo.demospringboot.models;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

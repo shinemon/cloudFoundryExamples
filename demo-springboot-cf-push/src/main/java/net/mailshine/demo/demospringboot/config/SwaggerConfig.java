@@ -1,4 +1,4 @@
-package demospringboot.config;
+package net.mailshine.demo.demospringboot.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

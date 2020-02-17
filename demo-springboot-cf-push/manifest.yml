@@ -3,7 +3,7 @@ applications:
   - name: demo-springboot-app
     memory: 768M
     instances: 1
-    random-route: true
-    target: target/demo-springboot-cf-push-1.0-SNAPSHOT.jar
+    random-route: false
+    path: target/demo-springboot-cf-push-1.0-SNAPSHOT.jar
     buildpacks:
       - https://github.com/cloudfoundry/java-buildpack.git
